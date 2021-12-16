@@ -3,6 +3,10 @@
  *  @version : 1.0
 */
 
+/*
+ *  1102024林采蓁
+*/
+ 
 #include "stdafx.h"
 #include <cstdlib>
 #include <iostream>
